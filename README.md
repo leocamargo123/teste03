@@ -1,5 +1,4 @@
 # lista de jogos
-# cs
+# dead space
 # free fire
-# pubg
 # metal gear solid 5
